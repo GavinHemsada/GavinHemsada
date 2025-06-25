@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gavin Hemsada</h1>
 <h3 align="center">🎯 Full-stack Developer | 💻 API Architect | 🌐 Web & Mobile Developer | 🎓 Tech Enthusiast Building modern, clean, and efficient systems using **.NET**, **PHP**, **Java**, **MongoDB**, and **JavaScript**.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/gavin-hemsada-a2a86b24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/gavin-hemsada-a2a86b24a" height="30" width="40" /></a>
-</p>
 ---
 ## 🚀 About Me
 
@@ -20,6 +15,10 @@ I'm a passionate software developer who loves designing user-friendly interfaces
 ## 📫 Let's Connect
 - 💼 GitHub: [github.com/GavinHemsada](https://github.com/GavinHemsada)
 - 📧 Email: gavinhemsada@gmail.com
+
+<p align="left">
+<a href="https://linkedin.com/in/in/gavin-hemsada-a2a86b24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/gavin-hemsada-a2a86b24a" height="20" width="30" /></a>
+</p>
 
 ---
 

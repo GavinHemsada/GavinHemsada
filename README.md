@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gavin Hemsada</h1>
 <h3 align="center">🎯 Full-stack Developer | 💻 API Architect | 🌐 Web & Mobile Developer | 🎓 Tech Enthusiast Building modern, clean, and efficient systems using **.NET**, **PHP**, **Java**, **MongoDB**, and **JavaScript**.</h3>
+
 ---
+
 ## 🚀 About Me
 
 I'm a passionate software developer who loves designing user-friendly interfaces, building clean APIs, and developing smart backend systems. Whether it's a full-stack web app, mobile ML integration, or dashboard with dynamic components, I always aim for scalable, maintainable, and production-ready solutions.

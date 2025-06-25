@@ -24,6 +24,9 @@ I'm a passionate software developer who loves designing user-friendly interfaces
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?
+
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for visiting my profile! 🙌  

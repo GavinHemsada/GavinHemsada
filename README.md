@@ -13,7 +13,7 @@
 
 ## 📫 Let's Connect
 - 💼 GitHub: [github.com/GavinHemsada](https://github.com/GavinHemsada)
-- 📧 Email: your.email@example.com *(Add your email here if you'd like)*
+- 📧 Email: gavinhemsada@gmail.com
 
 ---
 

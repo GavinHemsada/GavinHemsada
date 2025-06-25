@@ -1,13 +1,3 @@
-## Hi there 👋
-
-
-# 👋 Hi, I'm Gavin Hemsada
-
-🎯 Full-stack Developer | 💻 API Architect | 🌐 Web & Mobile Developer | 🎓 Tech Enthusiast  
-Building modern, clean, and efficient systems using **.NET**, **PHP**, **Java**, **MongoDB**, and **JavaScript**.
-
----
-
 <h1 align="center">Hi 👋, I'm Gavin Hemsada</h1>
 <h3 align="center">🎯 Full-stack Developer | 💻 API Architect | 🌐 Web & Mobile Developer | 🎓 Tech Enthusiast Building modern, clean, and efficient systems using **.NET**, **PHP**, **Java**, **MongoDB**, and **JavaScript**.</h3>
 

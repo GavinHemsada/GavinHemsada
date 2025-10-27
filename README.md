@@ -26,7 +26,8 @@ I'm a passionate software developer who loves designing user-friendly interfaces
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinHemsada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinHemsada&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,prs&rank_icon=github)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GavinHemsada&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&line_height=28&card_width=460)
+
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 

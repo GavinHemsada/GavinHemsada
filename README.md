@@ -16,8 +16,6 @@ I'm a passionate software developer who loves designing user-friendly interfaces
 ## Achievements
 ![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GavinHemsada)
-
 ---
 ## 📫 Let's Connect
 - 💼 GitHub: [github.com/GavinHemsada](https://github.com/GavinHemsada)
@@ -31,7 +29,6 @@ I'm a passionate software developer who loves designing user-friendly interfaces
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GavinHemsada&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GavinHemsada&theme=tokyonight&hide_border=true&layout=compact" height="180em"/>
 </p>
 
